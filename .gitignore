@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.Python
+env/
+venv/
+.venv/
+pip-wheel-metadata/
+
+# Session logs and generated data
+models/logs/
+*.csv
+*.json
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+*.ipynb
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Environment files (never commit secrets or device configs)
+.env
+*.env
+
+# OpenCV / MediaPipe cache
+.mediapipe/
+
+# Compiled TFLite models (keep the provided .tflite; ignore user-retrained ones)
+# Uncomment the line below if you want to exclude all .tflite files
+# *.tflite
+
+# OS artifacts
+*.log
