@@ -196,6 +196,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 If you use this system in research or clinical work, please cite:
 
 ```
-Brook (2026). Adaptive Robotics for ASD Therapy: Structured Learning and Autonomy
+Pranav Singla (2026). Adaptive Robotics for ASD Therapy: Structured Learning and Autonomy
 Transition Using AI & Affordable Hardware.
 ```
